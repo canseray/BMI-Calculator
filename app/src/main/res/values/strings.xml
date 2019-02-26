@@ -1,0 +1,11 @@
+<resources>
+    <string name="">BMI-Calculator</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="zayif">Zayıf durumdasınız</string>
+    <string name="ideal">İdeal durumdasınız</string>
+    <string name="normalden_fazla">Kilolu durumdasınız</string>
+    <string name="fazla_kilolu">Fazla kilolu durumdasınız</string>
+    <string name="obez">Obez durumdasınız</string>
+    <string name="doktora">Doktora gitmelisiniz</string>
+</resources>
